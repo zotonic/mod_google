@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# NB: Consider using poEdit <http://poedit.sourceforge.net>
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: zotonic\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2013-01-30 19:24+0800\n"
+"Last-Translator: Shuyu Wang <andelf@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: zh\n"
+
+#: modules/mod_google/templates/admin_facebook.tpl:21
+msgid "App ID."
+msgstr "应用 ID。"
+
+#: modules/mod_google/templates/admin_facebook.tpl:28
+msgid "App Secret"
+msgstr "应用 Secret"
+
+#: modules/mod_google/mod_google.erl:77
+msgid "Google"
+msgstr ""
+
+#: modules/mod_google/templates/admin_facebook.tpl:3
+#: modules/mod_google/templates/admin_facebook.tpl:9
+msgid "Google API Configuration"
+msgstr "Google API 配置"
+
+#: modules/mod_google/templates/admin_facebook.tpl:11
+msgid ""
+"Here you find the settings to authenticate users with facebook. You can find "
+"these values in <a href=\"http://www.facebook.com/developers/apps.php\" "
+"title=\"Developer Dashboard\">Your Google Developer Dashboard</a>"
+msgstr ""
+"这里可以设置用户通过 facebook 进行鉴权。请参考 <a href=\"http://www.facebook."
+"com/developers/apps.php\" title=\"Developer Dashboard\">Your Google "
+"Developer Dashboard</a>"
+
+#: modules/mod_google/templates/admin_facebook.tpl:52
+msgid "Save Google Settings"
+msgstr "保存 Google 设置"
+
+#: modules/mod_google/templates/admin_facebook.tpl:35
+msgid "Scope"
+msgstr "范围"
+
+#: modules/mod_google/templates/admin_facebook.tpl:45
+msgid "Use Google authentication"
+msgstr "使用 Google 鉴权"

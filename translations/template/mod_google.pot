@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# NB: Consider using poEdit <http://poedit.sourceforge.net>
+#
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./modules/mod_google/templates/_admin_authentication_service.tpl:13 
+msgid ""
+"App ID."
+msgstr ""
+
+#: ./modules/mod_google/templates/_admin_authentication_service.tpl:20 
+msgid ""
+"App Secret"
+msgstr ""
+
+#: ./modules/mod_google/templates/_admin_authentication_service.tpl:9 
+msgid ""
+"Application keys can be found in"
+msgstr ""
+
+#: ./modules/mod_google/templates/_facebook_login_link.tpl:16 
+msgid ""
+"Connect with Google"
+msgstr ""
+
+#: ./modules/mod_google/templates/_facebook_login_link.tpl:11 
+msgid ""
+"Disconnect"
+msgstr ""
+
+#: ./modules/mod_google/templates/_facebook_login_link.tpl:7 ./modules/mod_google/templates/_facebook_login_link.tpl:9 
+msgid ""
+"Disconnect from Google"
+msgstr ""
+
+#: ./modules/mod_google/templates/_facebook_login_link.tpl:10 
+msgid ""
+"Do you want to disconnect your Google account?"
+msgstr ""
+
+#: ./modules/mod_google/templates/_facebook_login_link.tpl:16 
+msgid ""
+"Log in with Google"
+msgstr ""
+
+#: ./modules/mod_google/templates/_logon_service.facebook.tpl:1 
+msgid ""
+"One moment please"
+msgstr ""
+
+#: ./modules/mod_google/templates/_logon_service.facebook.tpl:2 
+msgid ""
+"Redirecting to Google."
+msgstr ""
+
+#: ./modules/mod_google/templates/_admin_authentication_service.tpl:46 
+msgid ""
+"Save Google Settings"
+msgstr ""
+
+#: ./modules/mod_google/mod_google.erl:70 
+msgid ""
+"Saved the Google settings."
+msgstr ""
+
+#: ./modules/mod_google/templates/_admin_authentication_service.tpl:27 
+msgid ""
+"Scope"
+msgstr ""
+
+#: ./modules/mod_google/templates/_admin_authentication_service.tpl:38 
+msgid ""
+"Use Google authentication"
+msgstr ""
+
+#: ./modules/mod_google/mod_google.erl:72 
+msgid ""
+"You don't have permission to change the Google settings."
+msgstr ""
+
+#: ./modules/mod_google/templates/_logon_extra_email_reset.tpl:2 
+msgid ""
+"You have coupled your <strong>Google</strong> account."
+msgstr ""
+
+#: ./modules/mod_google/templates/_admin_authentication_service.tpl:9 
+msgid ""
+"Your Google Developer Dashboard"
+msgstr ""

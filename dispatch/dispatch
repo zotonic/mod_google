@@ -1,0 +1,5 @@
+%% -*- mode: erlang -*-
+[
+ {google_authorize, ["google", "authorize"], controller_google_authorize, [{ssl,any}]},
+ {google_redirect,  ["google", "redirect"],  controller_google_redirect, [{ssl,any}]}
+].
