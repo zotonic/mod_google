@@ -18,87 +18,92 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./modules/mod_google/templates/_admin_authentication_service.tpl:13 
-msgid ""
-"App ID."
-msgstr ""
-
-#: ./modules/mod_google/templates/_admin_authentication_service.tpl:20 
-msgid ""
-"App Secret"
-msgstr ""
-
-#: ./modules/mod_google/templates/_admin_authentication_service.tpl:9 
+#: ./user/modules/mod_google/templates/_admin_authentication_service.tpl:9 
 msgid ""
 "Application keys can be found in"
 msgstr ""
 
-#: ./modules/mod_google/templates/_facebook_login_link.tpl:16 
+#: ./user/modules/mod_google/templates/_admin_authentication_service.tpl:18 
+msgid ""
+"Cient-ID"
+msgstr ""
+
+#: ./user/modules/mod_google/templates/_admin_authentication_service.tpl:25 
+msgid ""
+"Client Secret"
+msgstr ""
+
+#: ./user/modules/mod_google/templates/_google_login_link.tpl:16 
 msgid ""
 "Connect with Google"
 msgstr ""
 
-#: ./modules/mod_google/templates/_facebook_login_link.tpl:11 
+#: ./user/modules/mod_google/templates/_google_login_link.tpl:11 
 msgid ""
 "Disconnect"
 msgstr ""
 
-#: ./modules/mod_google/templates/_facebook_login_link.tpl:7 ./modules/mod_google/templates/_facebook_login_link.tpl:9 
+#: ./user/modules/mod_google/templates/_google_login_link.tpl:7 ./user/modules/mod_google/templates/_google_login_link.tpl:9 
 msgid ""
 "Disconnect from Google"
 msgstr ""
 
-#: ./modules/mod_google/templates/_facebook_login_link.tpl:10 
+#: ./user/modules/mod_google/templates/_google_login_link.tpl:10 
 msgid ""
 "Do you want to disconnect your Google account?"
 msgstr ""
 
-#: ./modules/mod_google/templates/_facebook_login_link.tpl:16 
+#: ./user/modules/mod_google/templates/_google_login_link.tpl:16 
 msgid ""
 "Log in with Google"
 msgstr ""
 
-#: ./modules/mod_google/templates/_logon_service.facebook.tpl:1 
+#: ./user/modules/mod_google/templates/_logon_service.google.tpl:1 
 msgid ""
 "One moment please"
 msgstr ""
 
-#: ./modules/mod_google/templates/_logon_service.facebook.tpl:2 
+#: ./user/modules/mod_google/templates/_logon_service.google.tpl:2 
 msgid ""
 "Redirecting to Google."
 msgstr ""
 
-#: ./modules/mod_google/templates/_admin_authentication_service.tpl:46 
+#: ./user/modules/mod_google/templates/_admin_authentication_service.tpl:51 
 msgid ""
 "Save Google Settings"
 msgstr ""
 
-#: ./modules/mod_google/mod_google.erl:70 
+#: ./user/modules/mod_google/mod_google.erl:62 
 msgid ""
 "Saved the Google settings."
 msgstr ""
 
-#: ./modules/mod_google/templates/_admin_authentication_service.tpl:27 
+#: ./user/modules/mod_google/templates/_admin_authentication_service.tpl:32 
 msgid ""
 "Scope"
 msgstr ""
 
-#: ./modules/mod_google/templates/_admin_authentication_service.tpl:38 
+#: ./user/modules/mod_google/templates/_admin_authentication_service.tpl:13 
+msgid ""
+"The OAuth Authorization Callback URL is"
+msgstr ""
+
+#: ./user/modules/mod_google/templates/_admin_authentication_service.tpl:43 
 msgid ""
 "Use Google authentication"
 msgstr ""
 
-#: ./modules/mod_google/mod_google.erl:72 
+#: ./user/modules/mod_google/mod_google.erl:64 
 msgid ""
 "You don't have permission to change the Google settings."
 msgstr ""
 
-#: ./modules/mod_google/templates/_logon_extra_email_reset.tpl:2 
+#: ./user/modules/mod_google/templates/_logon_extra_email_reset.tpl:2 
 msgid ""
 "You have coupled your <strong>Google</strong> account."
 msgstr ""
 
-#: ./modules/mod_google/templates/_admin_authentication_service.tpl:9 
+#: ./user/modules/mod_google/templates/_admin_authentication_service.tpl:9 
 msgid ""
 "Your Google Developer Dashboard"
 msgstr ""

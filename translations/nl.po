@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# NB: Consider using poEdit <http://poedit.sourceforge.net>
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-08-20 12:40+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Marc Worrell <marc@worrell.nl>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"X-Generator: Poedit 3.0\n"
+
+#: user/modules/mod_google/templates/_admin_authentication_service.tpl:9
+msgid "Application keys can be found in"
+msgstr "Applicatiesleutels kun je vinden in"
+
+#: user/modules/mod_google/templates/_admin_authentication_service.tpl:18
+#, fuzzy
+msgid "Cient-ID"
+msgstr "Cient-ID"
+
+#: user/modules/mod_google/templates/_admin_authentication_service.tpl:25
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: user/modules/mod_google/templates/_google_login_link.tpl:16
+msgid "Connect with Google"
+msgstr "Verbinden met Google"
+
+#: user/modules/mod_google/templates/_google_login_link.tpl:11
+msgid "Disconnect"
+msgstr "Ontkoppel"
+
+#: user/modules/mod_google/templates/_google_login_link.tpl:7
+#: user/modules/mod_google/templates/_google_login_link.tpl:9
+msgid "Disconnect from Google"
+msgstr "Verbinding met Google verbreken"
+
+#: user/modules/mod_google/templates/_google_login_link.tpl:10
+msgid "Do you want to disconnect your Google account?"
+msgstr "Wil je je Google-account loskoppelen?"
+
+#: user/modules/mod_google/templates/_google_login_link.tpl:16
+msgid "Log in with Google"
+msgstr "Log in met Google"
+
+#: user/modules/mod_google/templates/_logon_service.google.tpl:1
+msgid "One moment please"
+msgstr "Een ogenblik geduld"
+
+#: user/modules/mod_google/templates/_logon_service.google.tpl:2
+msgid "Redirecting to Google."
+msgstr "Doorsturen naar Google."
+
+#: user/modules/mod_google/templates/_admin_authentication_service.tpl:51
+msgid "Save Google Settings"
+msgstr "Google-instellingen opslaan"
+
+#: user/modules/mod_google/mod_google.erl:62
+msgid "Saved the Google settings."
+msgstr "De Google instellingen zijn opgeslagen."
+
+#: user/modules/mod_google/templates/_admin_authentication_service.tpl:32
+msgid "Scope"
+msgstr "Scope"
+
+#: user/modules/mod_google/templates/_admin_authentication_service.tpl:13
+msgid "The OAuth Authorization Callback URL is"
+msgstr "De OAuth autorisatie callback URL is"
+
+#: user/modules/mod_google/templates/_admin_authentication_service.tpl:43
+msgid "Use Google authentication"
+msgstr "Gebruik Google-authenticatie"
+
+#: user/modules/mod_google/mod_google.erl:64
+msgid "You don't have permission to change the Google settings."
+msgstr "Je hebt geen toestemming om de Google instellingen te veranderen."
+
+#: user/modules/mod_google/templates/_logon_extra_email_reset.tpl:2
+msgid "You have coupled your <strong>Google</strong> account."
+msgstr "Je hebt je <strong>Google</strong> account gekoppeld."
+
+#: user/modules/mod_google/templates/_admin_authentication_service.tpl:9
+msgid "Your Google Developer Dashboard"
+msgstr "Je Google Developer Dashboard"
